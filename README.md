@@ -1,9 +1,6 @@
 ### Hi there 👋
 <!This file is dubbed from --https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md-->
-<p align="center">
-  <a href="https://github.com/gkrampah">
-    <img src="#" alt="Godwin Krampah" /></a>
-</p>
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
