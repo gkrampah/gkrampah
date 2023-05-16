@@ -1,13 +1,14 @@
-### Hi there 👋
 <!This file is dubbed from --https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md-->
-
+<p align="center">
+  <a href="https://github.com/gkrampah">
+    <img src="#" alt="Godwin Krampah" /></a>
+</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/gkrampah/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Data-Scientist%20with%20%7Byears%20experience%20in%20DataAnalytics%20DataVisualization%20MachineLearning%20web%20and%20app%20development;%20 7years%20of%20coding%20experience;Always%20open%20to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&pause=1000&size=22" /></a>
+    <img src="[https://readme-typing-svg.demolab.com/?lines=Data-Scientist%20with%20%7Byears%20experience%20in%20DataAnalytics%20DataVisualization%20MachineLearning%20web%20and%20app%20development;%20 7years%20of%20coding%20experience;Always%20open%20to%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=blue&vCenter=true&pause=1000&size=22](https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=288CB8CF&width=435&height=53&separator=%3C&lines=I+am+Data-Scientist+with+7+years++++%3Cof+experience+in+Data-Analytics%2C%3C+Data-Visualizations%2C+MachineLearning%2C+%3CSQL%2C++Scientific+Computing+and+-%3Ccloud+computing;%3C+Experience+with+web+and+app+develop-%3Cment+and+life-long+learner)" /></a>
 </p>
-
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
