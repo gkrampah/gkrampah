@@ -79,7 +79,7 @@
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Godwin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gkrampah&show_icons=true&theme=radical" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Godwin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Godwin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gkrampah&layout=compact&theme=radical" height="192px"/></a>
   <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
