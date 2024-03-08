@@ -95,7 +95,7 @@
 <h2>🔥 Projects </h2>
 <p>
   <ul>
-      <li><a href="#">Prediction and Interpretation of ML model for an Insurance Company </a></li>
+      <li><a href="https://github.com/gkrampah/ML_project_regression">Prediction and Interpretation of Regression and Deep Learning Model for an Insurance Company </a></li>
       
   </p>
   </ul>
