@@ -92,8 +92,13 @@
 
 <!--/details -->
 
-
-
+<h2>🔥 Projects </h2>
+<p>
+  <ul>
+      <li><a href="#">Prediction and Interpretation of ML model for an Insurance Company </a></li>
+      
+  </p>
+  </ul>
 <!--
 **gkrampah/gkrampah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
