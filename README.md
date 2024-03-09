@@ -96,7 +96,7 @@
 <p>
   <ul>
       <li><a href="https://github.com/gkrampah/ML_project_regression">Prediction and Interpretation of Regression and Deep Learning Model for an Insurance Company </a></li>
-      <li><a href="[https://github.com/gkrampah/DeepNeuralNetwork">Forecasting the Minimum Daily Temperature Using Statistical and Deep Learning Models</a></li>
+      <li><a href="https://github.com/gkrampah/DeepNeuralNetwork">Forecasting the Minimum Daily Temperature Using Statistical and Deep Learning Models</a></li>
       
   </p>
   </ul>
