@@ -96,13 +96,14 @@
 <p>
   <ul>
       <li><a href="https://github.com/gkrampah/ML_project_regression">Prediction and Interpretation of Regression and Deep Learning Model for an Insurance Company </a></li>
-      <li><a href="https://github.com/gkrampah/DeepNeuralNetwork">Forecasting the Minimum Daily Temperature Using Statistical and Deep Learning Models</a></li>
-      
+      <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/project.ipynb">Forecasting the Minimum Daily Temperature Using Statistical and Deep Learning Models</a></li>
+      <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/basics.ipynb">Image Classification Project with Tensorflow using Pre-trained Images from Imagenet</a></li>
+      <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/basics.ipynb">NLP project of next text prediction</a></li>
   </p>
   </ul>
 <!--
 **gkrampah/gkrampah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+NLP project of next text prediction
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
