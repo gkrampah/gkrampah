@@ -99,6 +99,8 @@
       <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/project.ipynb">Forecasting the Minimum Daily Temperature Using Statistical and Deep Learning Models</a></li>
       <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/basics.ipynb">Image Classification Project with Tensorflow using Pre-trained Images from Imagenet</a></li>
       <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/basics.ipynb">NLP project of next text prediction</a></li>
+      <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/RAG_MONGO_GEMMA/rag_mongodb_gemma.ipynb">Building retrieval-augmented generation (RAG) application using MongoDB, Generate Text Embedding (GTE) model (from Hugging Face) and the latest Google open-source LLM model; Gemma.</a></li>
+    
   </p>
   </ul>
 <!--
