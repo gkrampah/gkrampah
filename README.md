@@ -100,7 +100,8 @@
       <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/basics.ipynb">Image Classification Project with Tensorflow using Pre-trained Images from Imagenet</a></li>
       <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/basics.ipynb">NLP project of next text prediction</a></li>
       <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/RAG_MONGO_GEMMA/rag_mongodb_gemma.ipynb">Building retrieval-augmented generation (RAG) application using MongoDB, Generate Text Embedding (GTE) model (from Hugging Face) and the latest Google open-source LLM model; Gemma.</a></li>
-    
+    <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/medical_application.ipynb">Building RAG application for a hospital using Knowledge graph neo4j as both data store and vector store, OpenAI Embedding model and LLM model.</a></li>
+    <li><a href="https://github.com/gkrampah/DeepNeuralNetwork/blob/main/RAG_MONGO_GEMMA/rag_mongodb_openai.ipynb">Building RAG system using MongoDB Atlasas both data store and vector store, OpenAI Embedding model and LLM model.</a></li>
   </p>
   </ul>
 <!--
